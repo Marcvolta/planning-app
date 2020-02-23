@@ -6,6 +6,8 @@
 	<Page
 		id="page"
 		title="{i18n>title}">
-		<content></content>
+		<content>
+            <Text text="Hallo Text"></Text>
+        </content>
 	</Page>
 </mvc:View>
